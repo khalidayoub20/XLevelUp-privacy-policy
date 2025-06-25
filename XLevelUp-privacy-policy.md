@@ -177,5 +177,5 @@ Pour toute question ou préoccupation concernant cette politique de confidential
 
 ✉️ khalidayoub0402@gmail.com
 
-app name : XLevelUp 
-developer name : khalid ayoub
+#app name : XLevelUp 
+#developer name : khalid ayoub
