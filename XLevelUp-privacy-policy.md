@@ -1,5 +1,7 @@
 # XLevelUp-privacy-policy
 
+# KOREAN :
+
 XLevelUp 개인정보 보호정책
 
 시행일: 2025년 6월 20일
@@ -24,6 +26,7 @@ XLevelUp을 이용해 주셔서 감사합니다. 본 개인정보 보호정책�
 ✉️ khalidayoub0402@gmail.com
 
 
+# ENGLISH:
 
 XLevelUp Privacy Policy
 
@@ -49,6 +52,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 ✉️ khalidayoub0402@gmail.com
 
+# CHINESE:
 
 XLevelUp 隐私政策
 
@@ -75,6 +79,8 @@ XLevelUp 隐私政策
 ✉️ khalidayoub0402@gmail.com
 
 
+# JAPANESE:
+
 XLevelUp プライバシーポリシー
 
 発効日：2025年6月20日
@@ -99,8 +105,7 @@ XLevelUp をご利用いただきありがとうございます。このプラ�
 
 ✉️ khalidayoub0402@gmail.com
 
-
-
+# العربية:
 سياسة خصوصية XLevelUp
 
 تاريخ السريان: ٢٠ يونيو ٢٠٢٥
@@ -126,6 +131,7 @@ XLevelUp をご利用いただきありがとうございます。このプラ�
 ✉️ khalidayoub0402@gmail.com
 
 
+# HINDI:
 
 XLevelUp गोपनीयता नीति
 
@@ -152,6 +158,7 @@ XLevelUp का उपयोग करने के लिए धन्यवा
 ✉️ khalidayoub0402@gmail.com
 
 
+# FRANCAIS:
 
 Politique de confidentialité de XLevelUp
 
@@ -175,7 +182,7 @@ L'application n'utilise pas de services tiers tels que des services d'analyse, d
 
 Pour toute question ou préoccupation concernant cette politique de confidentialité, veuillez nous contacter à l'adresse suivante :
 
-✉️ khalidayoub0402@gmail.com
+#✉️ khalidayoub0402@gmail.com
 
-#app name : XLevelUp 
-#developer name : khalid ayoub
+# XLevelUp 
+# developer name : khalid ayoub
